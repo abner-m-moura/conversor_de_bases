@@ -16,7 +16,7 @@ int valorDoDigito(char c)
             return i;
         }
     }
-    return -1;
+    return -1; // simbolo invalido, pois nao existe em DIGITOS
 }
 
 // Converte um numero de qualquer base para decimal
