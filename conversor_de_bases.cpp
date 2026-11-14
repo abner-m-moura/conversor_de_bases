@@ -66,11 +66,11 @@ int main()
 
     cout << "Bases disponiveis: 2, 8, 10, 12, 16\n";
     cout << "Base de origem: ";
-    cin >> baseOrigem; // le a base de origem do teclado
+    cin >> baseOrigem;
     cout << "Base de destino: ";
-    cin >> baseDestino; // le a base de destino do teclado
+    cin >> baseDestino;
     cout << "Numero (inserir letras em maiusculo): ";
-    cin >> numero; // le o numero como texto
+    cin >> numero;
 
     // vai da base de origem para decimal
     int emDecimal = paraDecimal(numero, baseOrigem);
