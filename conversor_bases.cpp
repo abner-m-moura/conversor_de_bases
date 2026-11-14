@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>  // permite usar o tipo string
-    using namespace std;
+
+using namespace std;
 
 // Tabela com todos os simbolos possiveis; a posicao de cada um e o seu valor
 string DIGITOS = "0123456789ABCDEF";
