@@ -1,6 +1,6 @@
 # Conversor de Bases Numéricas
 
-Este é um programa em C++ que converte números entre diferentes sistemas de numeração, como binário, octal, decimal e hexadecimal. Ele funciona com bases de 2 a 16.
+Este é um programa em C++ que converte números entre diferentes sistemas de numeração: binário, octal, decimal, duodecimal e hexadecimal.
 
 ## Como funciona
 
